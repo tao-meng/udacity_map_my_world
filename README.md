@@ -1,4 +1,12 @@
-# udacity_WhereAmI
+# udacity_map_my_world
+
+cloned the repository from udacity_WhereAmI repository.
+
+### Here is the screenshot of the 2D map after mapping.
+
+![Map_My_World_2Dview](https://github.com/tao-meng/udacity_map_my_world/blob/master/Map_My_World_2Dview.png)
+
+---
 Where Am I Project in Udacity
 
 ---
