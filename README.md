@@ -2,6 +2,8 @@
 
 Due to oversized at github, the generated db file can be downloaded at here: https://mengtao.org/udacity/rtabmap.zip
 
+In folder: rtabmap, there is also a archived zip files for this db file.
+
 ### Here is the screenshot of the 2D map after mapping.
 
 ![Map_My_World_2Dview](https://github.com/tao-meng/udacity_map_my_world/blob/master/Map_My_World_2Dview.png)
